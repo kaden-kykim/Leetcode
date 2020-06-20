@@ -8,7 +8,9 @@
    * Runtime: 1 ms(100.00%), 39.9 MB(26.51%)
 3. Problem 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/), [Solution](Leetcode/LongestSubstringWithoutRepeatingCharacters_3.java)
    * Runtime: 5 ms(86.75%), 39.9 MB(72.35%)
-4. Problem 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), [Solution](Leetcode/MedianOfTwoSortedArrays_4.java)
+4. Problem 5: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), [Solution](Leetcode/LongestPalindromicSubstring_5.java)
    * Runtime: 74 ms(37.81%), 39.6 MB(50.44%)
+5. Problem 7: [Reverse Integer](https://leetcode.com/problems/reverse-integer/), [Solution](Leetcode/ReverseInteger_7.java)
+   * Runtime: 1 ms(100.00%), 36.9 MB(44.15%)
 
-### Profile Page: [Kaden Kim](https://leetcode.com/kaden-kykim/)
+### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
