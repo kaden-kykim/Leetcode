@@ -16,5 +16,7 @@
    * Runtime: 2 ms(81.19%), 36.5 MB(78.90%)
 7. Problem 10: [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/), [Solution](Leetcode/RegularExpressionMatching_10.java)
    * Runtime: 2 ms(92.99%), 37.7 MB(98.04%)
+8. Problem 13: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/), [Solution](Leetcode/RomanToInteger_13.java)
+   * Runtime: 3 ms(100.00%), 39.8 MB(64.13%)
 
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
