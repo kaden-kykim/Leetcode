@@ -112,9 +112,4 @@ public class LongestPalindromicSubstring_5 {
             return cs2;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new LongestPalindromicSubstring_5().longestPalindrome("babad"));
-        System.out.println(new LongestPalindromicSubstring_5().longestPalindromeManachersAlgorithm("babad"));
-    }
 }

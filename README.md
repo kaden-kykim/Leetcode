@@ -12,5 +12,7 @@
    * Runtime: 74 ms(37.81%), 39.6 MB(50.44%)
 5. Problem 7: [Reverse Integer](https://leetcode.com/problems/reverse-integer/), [Solution](Leetcode/ReverseInteger_7.java)
    * Runtime: 1 ms(100.00%), 36.9 MB(44.15%)
+6. Problem 8: [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/), [Solution](Leetcode/StringToInteger_atoi_8.java)
+   * Runtime: 2 ms(81.19%), 36.5 MB(78.90%)
 
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)

@@ -15,8 +15,4 @@ public class ReverseInteger_7 {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println(new ReverseInteger_7().reverse(1534236469));
-    }
-
 }
