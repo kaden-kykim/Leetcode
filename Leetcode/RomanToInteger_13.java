@@ -19,12 +19,4 @@ public class RomanToInteger_13 {
         return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println("3: " + new RomanToInteger_13().romanToInt("III"));
-        System.out.println("4: " + new RomanToInteger_13().romanToInt("IV"));
-        System.out.println("9: " + new RomanToInteger_13().romanToInt("IX"));
-        System.out.println("58: " + new RomanToInteger_13().romanToInt("LVIII"));
-        System.out.println("1994: " + new RomanToInteger_13().romanToInt("MCMXCIV"));
-    }
-
 }
