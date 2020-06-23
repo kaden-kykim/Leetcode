@@ -20,9 +20,7 @@ public class LetterCombinationsOfAPhoneNumber_17 {
             }
         }
 
-        StringBuilder sb = new StringBuilder();
-        recStringBuilder(sb, list, result);
-
+        recStringBuilder(new StringBuilder(), list, result);
         return result;
     }
 

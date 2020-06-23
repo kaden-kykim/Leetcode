@@ -29,11 +29,11 @@ public class ThreeSum_15 {
         return new ArrayList<>(result);
     }
 
-    public static void main(String[] args) {
-        System.out.println("[[-1, 0, 1], [-1, -1, 2]]: " + new ThreeSum_15().threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
-        System.out.println("[[0, 0, 0]]: " + new ThreeSum_15().threeSum(new int[]{0, 0, 0, 0}));
-        System.out.println("[[0, 0, 0]]: " + new ThreeSum_15().threeSum(new int[]{0, 0, 0}));
-        System.out.println("[]: " + new ThreeSum_15().threeSum(new int[]{0, 0}));
-    }
+//    public static void main(String[] args) {
+//        System.out.println("[[-1, 0, 1], [-1, -1, 2]]: " + new ThreeSum_15().threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
+//        System.out.println("[[0, 0, 0]]: " + new ThreeSum_15().threeSum(new int[]{0, 0, 0, 0}));
+//        System.out.println("[[0, 0, 0]]: " + new ThreeSum_15().threeSum(new int[]{0, 0, 0}));
+//        System.out.println("[]: " + new ThreeSum_15().threeSum(new int[]{0, 0}));
+//    }
 
 }
