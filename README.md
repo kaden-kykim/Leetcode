@@ -32,4 +32,6 @@
     * Runtime: 1 ms(98.77%), 37.4 MB(62.38%)
 15. Problem 21: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/), [Solution](Leetcode/MergeTwoSortedLists_21.java)
     * Runtime: 0 ms(100.00%), 38.9 MB(79.99%)
+16. Problem 22: [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/), [Solution](Leetcode/GenerateParentheses_22.java)
+    * Runtime: 0 ms(100.00%), 39.5 MB(68.29%)
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
