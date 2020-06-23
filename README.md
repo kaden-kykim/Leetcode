@@ -38,5 +38,7 @@
     * Runtime, Memory Usage: 4 ms(81.55%), 41 MB(77.15%) / (Opt) 2 ms(91.66%), 41.1 MB(69.09%)
 18. Problem 26: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Solution](Leetcode/RemoveDuplicatesFromSortedArray_26.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 41.3 MB(60.33%)
+19. Problem 28: [Implement strStr()](https://leetcode.com/problems/implement-strstr/), [Solution(KMP)](Leetcode/Implement_strStr_28.java)
+    * Runtime, Memory Usage: 3 ms(34.16%), 39.5 MB(22.21%)
     
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
