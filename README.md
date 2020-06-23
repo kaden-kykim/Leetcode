@@ -30,4 +30,6 @@
     * Runtime: 0 ms(100.00%), 37.2 MB(96.67%)
 14. Problem 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Solution](Leetcode/ValidParentheses_20.java)
     * Runtime: 1 ms(98.77%), 37.4 MB(62.38%)
+15. Problem 21: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/), [Solution](Leetcode/MergeTwoSortedLists_21.java)
+    * Runtime: 0 ms(100.00%), 38.9 MB(79.99%)
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)

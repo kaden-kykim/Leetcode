@@ -29,10 +29,7 @@ public class AddTwoNumbers_2 {
         return result.next;
     }
 
-    /**
-     * Definition for singly-linked list.
-     */
-    static class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
 
