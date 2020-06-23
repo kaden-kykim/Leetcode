@@ -17,7 +17,7 @@
 7. Problem 10: [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/), [Solution](Leetcode/RegularExpressionMatching_10.java)
    * Runtime, Memory Usage: 2 ms(92.99%), 37.7 MB(98.04%)
 8. Problem 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/), [Solution](Leetcode/ContainerWithMostWater_11.java)
-   * Runtime, Memory Usage: 454 ms(9.32%), 40 MB(31.76%) / 2 ms(95.64%), 39.9 MB(40.08%)
+   * Runtime, Memory Usage: 454 ms(9.32%), 40 MB(31.76%) / (Opt) 2 ms(95.64%), 39.9 MB(40.08%)
 9. Problem 13: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/), [Solution](Leetcode/RomanToInteger_13.java)
    * Runtime, Memory Usage: 3 ms(100.00%), 39.2 MB(97.00%)
 10. Problem 14: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/), [Solution](Leetcode/LongestCommonPrefix_14.java)
@@ -35,5 +35,8 @@
 16. Problem 22: [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/), [Solution](Leetcode/GenerateParentheses_22.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(68.29%)
 17. Problem 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/), [Solution](Leetcode/MergeKSortedLists_23.java)
-    * Runtime, Memory Usage: 4 ms(81.55%), 41 MB(77.15%)
+    * Runtime, Memory Usage: 4 ms(81.55%), 41 MB(77.15%) / (Opt) 2 ms(91.66%), 41.1 MB(69.09%)
+18. Problem 26: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Solution](Leetcode/RemoveDuplicatesFromSortedArray_26.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 41.3 MB(60.33%)
+    
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
