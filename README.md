@@ -49,3 +49,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 42.5 MB(76.67%)
 23. Problem 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/), [Solution](Leetcode/ValidSudoku_36.java)
     * Runtime, Memory Usage: 2 ms(83.97%), 39.6 MB(63.64%)
+24. Problem 38: [Count and Say](https://leetcode.com/problems/count-and-say/), [Solution](Leetcode/CountAndSay_38.java)
+    * Runtime, Memory Usage: 1 ms(91.70%), 36.7 MB(80.55%)
