@@ -1,5 +1,6 @@
 # Leetcode
 
+### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
 ### List of solved problems
 
 1. Problem 1: [Two Sum](https://leetcode.com/problems/two-sum/), [Solution](Leetcode/TwoSum_1.java)
@@ -46,5 +47,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.1 MB(54.98%)
 22. Problem 34: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/), [Solution](Leetcode/FindFirstAndLastPositionOfElementInSortedArray_34.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 42.5 MB(76.67%)
-    
-### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
+23. Problem 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/), [Solution](Leetcode/ValidSudoku_36.java)
+    * Runtime, Memory Usage: 2 ms(83.97%), 39.6 MB(63.64%)
