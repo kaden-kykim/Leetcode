@@ -42,5 +42,7 @@
     * Runtime, Memory Usage: 3 ms(34.16%), 39.5 MB(22.21%)
 20. Problem 29: [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/), [Solution](Leetcode/DivideTwoIntegers_29.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 36.9 MB(42.13%)
+21. Problem 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/), [Solution](Leetcode/SearchInRotatedSortedArray_33.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.1 MB(54.98%)
         
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
