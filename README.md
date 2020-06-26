@@ -44,5 +44,7 @@
     * Runtime, Memory Usage: 1 ms(100.00%), 36.9 MB(42.13%)
 21. Problem 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/), [Solution](Leetcode/SearchInRotatedSortedArray_33.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.1 MB(54.98%)
-        
+22. Problem 34: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/), [Solution](Leetcode/FindFirstAndLastPositionOfElementInSortedArray_34.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 42.5 MB(76.67%)
+    
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
