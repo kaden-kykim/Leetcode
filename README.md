@@ -51,3 +51,5 @@
     * Runtime, Memory Usage: 2 ms(83.97%), 39.6 MB(63.64%)
 24. Problem 38: [Count and Say](https://leetcode.com/problems/count-and-say/), [Solution](Leetcode/CountAndSay_38.java)
     * Runtime, Memory Usage: 1 ms(91.70%), 36.7 MB(80.55%)
+25. Problem 41: [First Missing Positive](https://leetcode.com/problems/first-missing-positive/), [Solution](Leetcode/FirstMissingPositive_41.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 37.4 MB(58.43%)
