@@ -53,3 +53,5 @@
     * Runtime, Memory Usage: 1 ms(91.70%), 36.7 MB(80.55%)
 25. Problem 41: [First Missing Positive](https://leetcode.com/problems/first-missing-positive/), [Solution](Leetcode/FirstMissingPositive_41.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 37.4 MB(58.43%)
+26. Problem 42: [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/), [Solution](Leetcode/TrappingRainWater_42.java)
+    * Runtime, Memory Usage: 1 ms(92.98%), 39.3 MB(42.08%)
