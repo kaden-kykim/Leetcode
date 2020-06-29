@@ -13,6 +13,10 @@ public class WildcardMatching_44 {
 
             boolean pos = false;
             char pChar = p.charAt(pi);
+            if (pChar == '*') {
+                while (pi != p.length() - 1 && p.charAt(pi + 1) == '*') pi++;
+                if (pi == p.length() - 1) return true;
+            }
             for (int si = 0; si <= sLength; ++si) {
                 if (!possible[0][si]) continue;
                 if (pChar == '*') {
@@ -27,16 +31,6 @@ public class WildcardMatching_44 {
         }
 
         return possible[1][sLength];
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new WildcardMatching_44().isMatch("aa", "aa"));
-        System.out.println(new WildcardMatching_44().isMatch("", "*"));
-        System.out.println(new WildcardMatching_44().isMatch("aa", "a"));
-        System.out.println(new WildcardMatching_44().isMatch("aa", "*"));
-        System.out.println(new WildcardMatching_44().isMatch("cb", "?a"));
-        System.out.println(new WildcardMatching_44().isMatch("adceb", "*a*b"));
-        System.out.println(new WildcardMatching_44().isMatch("acdcb", "a*c?b"));
     }
 
 }
