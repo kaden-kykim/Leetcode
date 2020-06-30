@@ -55,5 +55,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 37.4 MB(58.43%)
 26. Problem 42: [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/), [Solution](Leetcode/TrappingRainWater_42.java)
     * Runtime, Memory Usage: 1 ms(92.98%), 39.3 MB(42.08%)
-27. Problem 44: [Wildcard Matching](), [Solution(DP)](Leetcode/WildcardMatching_44.java)
+27. Problem 44: [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), [Solution(DP)](Leetcode/WildcardMatching_44.java)
     * Runtime, Memory Usage: 17 ms(72.61%), 40.0 MB(50.67%)
+28. Problem 46: [Permutations](https://leetcode.com/problems/permutations/), [Solution](Leetcode/Permutations_46.java)
+    * Runtime, Memory Usage: 1 ms(91.89%), 39.4 MB(91.26%)
