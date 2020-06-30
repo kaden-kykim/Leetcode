@@ -59,3 +59,5 @@
     * Runtime, Memory Usage: 17 ms(72.61%), 40.0 MB(50.67%)
 28. Problem 46: [Permutations](https://leetcode.com/problems/permutations/), [Solution](Leetcode/Permutations_46.java)
     * Runtime, Memory Usage: 1 ms(91.89%), 39.4 MB(91.26%)
+29. Problem 48: [Rotate Image](), [Solution](Leetcode/RotateImage_48.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(56.12%)
