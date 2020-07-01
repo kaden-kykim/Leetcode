@@ -63,3 +63,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(56.12%)
 30. Problem 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/), [Solution](Leetcode/GroupAnagrams_49.java)
     * Runtime, Memory Usage: 5 ms(99.39%), 42.3 MB(80.00%)
+31. Problem 50: [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Solution](Leetcode/Pow_x_n_50.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 36.7 MB(56.61%)
