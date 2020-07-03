@@ -67,3 +67,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 36.7 MB(56.61%)
 32. Problem 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/), [Solution](Leetcode/MaximumSubarray_53.java)
     * Runtime, Memory Usage: 1 ms(69.36%), 39.2 MB(87.22%)
+33. Problem 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [Solution](Leetcode/SpiralMatrix_54.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 38.9 MB(10.37%)
