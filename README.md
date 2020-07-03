@@ -65,3 +65,5 @@
     * Runtime, Memory Usage: 5 ms(99.39%), 42.3 MB(80.00%)
 31. Problem 50: [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Solution](Leetcode/Pow_x_n_50.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.7 MB(56.61%)
+32. Problem 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/), [Solution](Leetcode/MaximumSubarray_53.java)
+    * Runtime, Memory Usage: 1 ms(69.36%), 39.2 MB(87.22%)
