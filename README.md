@@ -69,5 +69,5 @@
     * Runtime, Memory Usage: 1 ms(69.36%), 39.2 MB(87.22%)
 33. Problem 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [Solution](Leetcode/SpiralMatrix_54.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 38.9 MB(10.37%)
-34. Problem 55: [Jump Game](), [Solution](Leetcode/JumpGame_55.java)
+34. Problem 55: [Jump Game](https://leetcode.com/problems/jump-game/), [Solution](Leetcode/JumpGame_55.java)
     * Runtime, Memory Usage: 1 ms(99.06%), 43.8 MB(15.77%)
