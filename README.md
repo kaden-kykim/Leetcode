@@ -79,3 +79,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 38.4 MB(17.53%)
 38. Problem 69: [Sqrt(x)](https://leetcode.com/problems/sqrtx/), [Solution](Leetcode/Sqrt_x_69.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 37.0 MB(32.59%)
+39. Problem 70: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/), [Solution](Leetcode/ClimbingStairs_70.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(92.24%)
