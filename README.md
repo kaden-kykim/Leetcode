@@ -75,3 +75,5 @@
     * Runtime, Memory Usage: 6 ms(61.18%), 41.8 MB(82.94%)
 36. Problem 62: [Unique Paths](https://leetcode.com/problems/unique-paths/), [Solution](Leetcode/UniquePaths_62.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.0 MB(83.34%)
+37. Problem 66: [Plus One](https://leetcode.com/problems/plus-one/), [Solution](Leetcode/PlusOne_66.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 38.4 MB(17.53%)
