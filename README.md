@@ -81,3 +81,5 @@
     * Runtime, Memory Usage: 1 ms(100.00%), 37.0 MB(32.59%)
 39. Problem 70: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/), [Solution](Leetcode/ClimbingStairs_70.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(92.24%)
+40. Problem 73: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Solution](Leetcode/SetMatrixZeroes_73.java)
+    * Runtime, Memory Usage: 1 ms(96.36%), 40.6 MB(93.14%)
