@@ -73,3 +73,5 @@
     * Runtime, Memory Usage: 1 ms(99.06%), 43.8 MB(15.77%)
 35. Problem 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/), [Solution](Leetcode/MergeIntervals_56.java)
     * Runtime, Memory Usage: 6 ms(61.18%), 41.8 MB(82.94%)
+36. Problem 62: [Unique Paths](https://leetcode.com/problems/unique-paths/), [Solution](Leetcode/UniquePaths_62.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 36.0 MB(83.34%)
