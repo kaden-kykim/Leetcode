@@ -3,6 +3,8 @@
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
 ### List of solved problems
 
+<details><summary>Problem 1 ~ 10</summary>
+
 1. Problem 1: [Two Sum](https://leetcode.com/problems/two-sum/), [Solution](Leetcode/TwoSum_1.java)
    * Runtime, Memory Usage: 1 ms(99.93%), 39.7 MB(44.72%)
 2. Problem 2: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/), [Solution](Leetcode/AddTwoNumbers_2.java)
@@ -23,6 +25,10 @@
    * Runtime, Memory Usage: 3 ms(100.00%), 39.2 MB(97.00%)
 10. Problem 14: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/), [Solution](Leetcode/LongestCommonPrefix_14.java)
     * Runtime, Memory Usage: 1 ms(61.87%), 37.5 MB(68.81%)
+</details>
+
+<details><summary>Problem 11 ~ 20</summary>
+
 11. Problem 15: [3Sum](https://leetcode.com/problems/3sum/), [Solution](Leetcode/ThreeSum_15.java)
     * Runtime, Memory Usage: 531 ms(11.31%), 44.5 MB(29.28%)
 12. Problem 17: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/), [Solution](Leetcode/LetterCombinationsOfAPhoneNumber_17.java)
@@ -43,6 +49,10 @@
     * Runtime, Memory Usage: 3 ms(34.16%), 39.5 MB(22.21%)
 20. Problem 29: [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/), [Solution](Leetcode/DivideTwoIntegers_29.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 36.9 MB(42.13%)
+</details>
+    
+<details><summary>Problem 21 ~ 30</summary>
+
 21. Problem 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/), [Solution](Leetcode/SearchInRotatedSortedArray_33.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.1 MB(54.98%)
 22. Problem 34: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/), [Solution](Leetcode/FindFirstAndLastPositionOfElementInSortedArray_34.java)
@@ -63,6 +73,10 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(56.12%)
 30. Problem 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/), [Solution](Leetcode/GroupAnagrams_49.java)
     * Runtime, Memory Usage: 5 ms(99.39%), 42.3 MB(80.00%)
+</details>
+
+<details><summary>Problem 31 ~ 40</summary>
+
 31. Problem 50: [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Solution](Leetcode/Pow_x_n_50.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.7 MB(56.61%)
 32. Problem 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/), [Solution](Leetcode/MaximumSubarray_53.java)
@@ -83,5 +97,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(92.24%)
 40. Problem 73: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Solution](Leetcode/SetMatrixZeroes_73.java)
     * Runtime, Memory Usage: 1 ms(96.36%), 40.6 MB(93.14%)
+</details>
+
 41. Problem 75: [Sort Colors](https://leetcode.com/problems/sort-colors/), [Solution](Leetcode/SortColors_75.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(78.33%)
