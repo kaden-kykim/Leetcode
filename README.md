@@ -71,3 +71,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 38.9 MB(10.37%)
 34. Problem 55: [Jump Game](https://leetcode.com/problems/jump-game/), [Solution](Leetcode/JumpGame_55.java)
     * Runtime, Memory Usage: 1 ms(99.06%), 43.8 MB(15.77%)
+35. Problem 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/), [Solution](Leetcode/MergeIntervals_56.java)
+    * Runtime, Memory Usage: 6 ms(61.18%), 41.8 MB(82.94%)
