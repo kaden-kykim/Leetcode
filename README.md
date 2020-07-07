@@ -101,3 +101,5 @@
 
 41. Problem 75: [Sort Colors](https://leetcode.com/problems/sort-colors/), [Solution](Leetcode/SortColors_75.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(78.33%)
+42. Problem 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/), [Solution](Leetcode/MinimumWindowSubstring_76.java)
+    * Runtime, Memory Usage: 2 ms(99.98%), 39.1 MB(99.13%)
