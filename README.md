@@ -103,5 +103,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(78.33%)
 42. Problem 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/), [Solution](Leetcode/MinimumWindowSubstring_76.java)
     * Runtime, Memory Usage: 2 ms(99.98%), 39.1 MB(99.13%)
-43. Problem 78: [Subsets](), [Solution](Leetcode/Subsets_78.java)
+43. Problem 78: [Subsets](https://leetcode.com/problems/subsets/), [Solution](Leetcode/Subsets_78.java)
     * Runtime, Memory Usage: 1 ms(64.62%), 39.3 MB(97.36%)
+44. Problem 79: [Word Search](https://leetcode.com/problems/word-search/), [Solution](Leetcode/WordSearch_79.java)
+    * Runtime, Memory Usage: 6 ms(60.87%), 40.9 MB(82.25%)
