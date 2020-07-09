@@ -107,3 +107,4 @@
     * Runtime, Memory Usage: 1 ms(64.62%), 39.3 MB(97.36%)
 44. Problem 79: [Word Search](https://leetcode.com/problems/word-search/), [Solution](Leetcode/WordSearch_79.java)
     * Runtime, Memory Usage: 6 ms(60.87%), 40.9 MB(82.25%)
+45. Problem 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
