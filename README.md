@@ -113,3 +113,5 @@
     * Runtime, Memory Usage: 1 ms(98.27%), 37.5 MB(93.89%)
 47. Problem 94: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/), [Solution](Leetcode/BinaryTreeInorderTraversal_94.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(53.85%)
+48. Problem 98: [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Solution](Leetcode/ValidateBinarySearchTree_98.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(55.08%)
