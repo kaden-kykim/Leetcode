@@ -115,3 +115,5 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(53.85%)
 48. Problem 98: [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Solution](Leetcode/ValidateBinarySearchTree_98.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(55.08%)
+49. Problem 101: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/), [Solution](Leetcode/SymmetricTree_101.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(11.95%)
