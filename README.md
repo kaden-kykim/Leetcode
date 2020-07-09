@@ -109,3 +109,5 @@
     * Runtime, Memory Usage: 6 ms(60.87%), 40.9 MB(82.25%)
 45. Problem 88: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/), [Solution](Leetcode/MergeSortedArray_88.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(85.54%)
+46. Problem 91: [Decode Ways](https://leetcode.com/problems/decode-ways/), [Solution](Leetcode/DecodeWays_91.java)
+    * Runtime, Memory Usage: 1 ms(98.27%), 37.5 MB(93.89%)
