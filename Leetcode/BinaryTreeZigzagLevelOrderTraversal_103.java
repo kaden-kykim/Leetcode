@@ -1,11 +1,10 @@
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
+import java.util.Stack;
 
-public class BinaryTreeLevelOrderTraversal_102 {
+public class BinaryTreeZigzagLevelOrderTraversal_103 {
 
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         return helper(root, 0, new ArrayList<>());
     }
 
@@ -14,32 +13,38 @@ public class BinaryTreeLevelOrderTraversal_102 {
         List<Integer> list;
         if (result.size() <= depth) { list = new ArrayList<>(); result.add(list); }
         else list = result.get(depth);
-        list.add(root.val);
-        result = helper(root.left, depth + 1, result);
-        result = helper(root.right, depth + 1, result);
+        if (depth % 2 == 0) list.add(root.val);
+        else list.add(0, root.val);
+        helper(root.left, depth + 1, result);
+        helper(root.right, depth + 1, result);
         return result;
     }
 
-    public List<List<Integer>> levelOrder1(TreeNode root) {
+    public List<List<Integer>> zigzagLevelOrder1(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
-        Queue<TreeNode> queue = new LinkedList<>();
-        if (root != null) queue.add(root);
-        helper1(queue, result);
+        Stack<TreeNode> stack = new Stack<>();
+        if (root != null) stack.add(root);
+        helper2(stack, 0, result);
         return result;
     }
 
-    private void helper1(Queue<TreeNode> parents, List<List<Integer>> result) {
+    private void helper2(Stack<TreeNode> parents, int depth, List<List<Integer>> result) {
         if (parents.isEmpty()) return;
-        Queue<TreeNode> queue = new LinkedList<>();
+        Stack<TreeNode> stack = new Stack<>();
         List<Integer> level = new ArrayList<>(parents.size());
         while (!parents.isEmpty()) {
-            TreeNode node = parents.poll();
+            TreeNode node = parents.pop();
             level.add(node.val);
-            if (node.left != null) queue.add(node.left);
-            if (node.right != null) queue.add(node.right);
+            if (depth % 2 == 0) {
+                if (node.left != null) stack.add(node.left);
+                if (node.right != null) stack.add(node.right);
+            } else {
+                if (node.right != null) stack.add(node.right);
+                if (node.left != null) stack.add(node.left);
+            }
         }
         result.add(level);
-        helper1(queue, result);
+        helper2(stack, depth + 1, result);
     }
 
     private static class TreeNode {
