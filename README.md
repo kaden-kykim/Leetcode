@@ -125,6 +125,8 @@
 
 <details><summary>Problem 51 ~</summary>
 
-51. Problem 103: [Binary Tree Zigzag Level Order Traversal](), [Solution](Leetcode/BinaryTreeZigzagLevelOrderTraversal_103.java)
+51. Problem 103: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/), [Solution](Leetcode/BinaryTreeZigzagLevelOrderTraversal_103.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 38.3 MB(84.03%)
+52. Problem 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/), [Solution](Leetcode/MaximumDepthOfBinaryTree_104.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(41.38%)
 </details>
