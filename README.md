@@ -130,7 +130,7 @@
 52. Problem 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/), [Solution](Leetcode/MaximumDepthOfBinaryTree_104.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(41.38%)
 53. Problem 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/), [Solution](Leetcode/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)
-    * Runtime, Memory Usage: 7 ms(16.44%), 39.9 MB(40.20%) / (Opt) Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(80.65%)
+    * Runtime, Memory Usage: 7 ms(16.44%), 39.9 MB(40.20%) / (Opt) 0 ms(100.00%), 39.5 MB(80.65%)
 54. Problem 108: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/), [Solution](Leetcode/ConvertSortedArrayToBinarySearchTree_108.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.43%)
 </details>
