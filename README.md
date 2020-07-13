@@ -129,4 +129,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 38.3 MB(84.03%)
 52. Problem 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/), [Solution](Leetcode/MaximumDepthOfBinaryTree_104.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(41.38%)
+53. Problem 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/), [Solution](Leetcode/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java)
+    * Runtime, Memory Usage: 7 ms(16.44%), 39.9 MB(40.20%)
 </details>
