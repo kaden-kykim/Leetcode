@@ -133,4 +133,6 @@
     * Runtime, Memory Usage: 7 ms(16.44%), 39.9 MB(40.20%) / (Opt) 0 ms(100.00%), 39.5 MB(80.65%)
 54. Problem 108: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/), [Solution](Leetcode/ConvertSortedArrayToBinarySearchTree_108.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.43%)
+55. Problem 116: [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/), [Solution](Leetcode/PopulatingNextRightPointersInEachNode_116.java)
+    * Runtime, Memory Usage: 2 ms(42.70%), 39.7 MB(57.04%)
 </details>
