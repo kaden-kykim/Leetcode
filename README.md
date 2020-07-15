@@ -135,4 +135,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.43%)
 55. Problem 116: [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/), [Solution](Leetcode/PopulatingNextRightPointersInEachNode_116.java)
     * Runtime, Memory Usage: 2 ms(42.70%), 39.7 MB(57.04%) / (Recursive) 0 ms(100.00%), 40.2 MB(22.47%)
+56. Problem 118: [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/), [Solution](Leetcode/PascalsTriangle_118.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 36.9 MB(86.33%)
 </details>
