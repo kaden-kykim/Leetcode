@@ -4,6 +4,41 @@ import java.util.Queue;
 public class PopulatingNextRightPointersInEachNode_116 {
 
     public Node connect(Node root) {
+        helper(root);
+        return root;
+    }
+
+    private void helper(Node node) {
+        if (node == null) return;
+        if (node.left != null) node.left.next = node.right;
+        Node lastChild = (node.right != null) ? node.right : node.left;
+        if (lastChild != null) {
+            lastChild.next = (node.next != null) ? (node.next.left != null) ? node.next.left : node.next.right : null;
+        }
+        helper(node.left);
+        helper(node.right);
+    }
+
+    public Node connect1(Node root) {
+        Queue<Node> queue = new LinkedList<>();
+        if (root != null) queue.add(root);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            Node prevNode = queue.poll();
+            if (prevNode.left != null) queue.add(prevNode.left);
+            if (prevNode.right != null) queue.add(prevNode.right);
+            for (int i = 1; i < size; ++i) {
+                prevNode.next = queue.poll();
+                prevNode = prevNode.next;
+                assert prevNode != null;
+                if (prevNode.left != null) queue.add(prevNode.left);
+                if (prevNode.right != null) queue.add(prevNode.right);
+            }
+        }
+        return root;
+    }
+
+    public Node connect2(Node root) {
         Queue<Node> parents, children = new LinkedList<>();
         if (root != null) children.add(root);
         while (!children.isEmpty()) {
@@ -18,21 +53,6 @@ public class PopulatingNextRightPointersInEachNode_116 {
         }
         return root;
     }
-
-//    public static void main(String[] args) {
-//        Node root = new Node(1,
-//                new Node(2,
-//                        new Node(4, null, null, null),
-//                        new Node(5, null, null, null),
-//                        null),
-//                new Node(3,
-//                        new Node(6, null, null, null),
-//                        new Node(7, null, null, null),
-//                        null),
-//                null);
-//        new PopulatingNextRightPointersInEachNode_116().connect(root);
-//        System.out.println(root);
-//    }
 
     private static class Node {
         public int val;
