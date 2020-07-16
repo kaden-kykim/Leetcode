@@ -137,4 +137,6 @@
     * Runtime, Memory Usage: 2 ms(42.70%), 39.7 MB(57.04%) / (Recursive) 0 ms(100.00%), 40.2 MB(22.47%)
 56. Problem 118: [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/), [Solution](Leetcode/PascalsTriangle_118.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.9 MB(86.33%)
+57. Problem 121: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](Leetcode/BestTimeToBuyAndSellStock_121.java)
+    * Runtime, Memory Usage: 1 ms(99.29%), 39.9 MB(24.13%)
 </details>
