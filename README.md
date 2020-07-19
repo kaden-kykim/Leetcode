@@ -141,4 +141,6 @@
     * Runtime, Memory Usage: 1 ms(99.29%), 39.9 MB(24.13%)
 58. Problem 122: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/), [Solution](Leetcode/BestTimeToBuyAndSellStockII_122.java)
     * Runtime, Memory Usage: 1 ms(93.48%), 39.7 MB(24.77%)
+59. Problem 124: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/), [Solution](Leetcode/BinaryTreeMaximumPathSum_124.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 41.2 MB(76.59%)
 </details>
