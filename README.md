@@ -123,7 +123,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.7 MB(57.27%)
 </details>
 
-<details><summary>Problem 51 ~</summary>
+<details><summary>Problem 51 ~ 60</summary>
 
 51. Problem 103: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/), [Solution](Leetcode/BinaryTreeZigzagLevelOrderTraversal_103.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 38.3 MB(84.03%)
@@ -143,4 +143,6 @@
     * Runtime, Memory Usage: 1 ms(93.48%), 39.7 MB(24.77%)
 59. Problem 124: [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/), [Solution](Leetcode/BinaryTreeMaximumPathSum_124.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 41.2 MB(76.59%)
+60. Problem 125: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/), [Solution](Leetcode/ValidPalindrome_125.java)
+    * Runtime, Memory Usage: 2 ms(98.59%), 39.2 MB(87.45%)
 </details>
