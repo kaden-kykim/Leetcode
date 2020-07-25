@@ -156,5 +156,5 @@
 63. Problem 130: [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/), [Solution](Leetcode/SurroundedRegions_130.java)
     * Runtime, Memory Usage: 1 ms(99.37%), 41.4 MB(77.28%)
 64. Problem 131: [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/), [Solution](Leetcode/PalindromePartitioning_131.java)
-    * Runtime, Memory Usage: 3 ms(67.93%), 40.3 MB(53.07%)
+    * Runtime, Memory Usage: 3 ms(67.93%), 40.3 MB(53.07%) / (Opt) 1 ms(100.00%), 40.2 MB(64.77%)
 </details>
