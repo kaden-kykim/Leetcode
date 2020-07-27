@@ -159,4 +159,6 @@
     * Runtime, Memory Usage: 3 ms(67.93%), 40.3 MB(53.07%) / (Opt) 1 ms(100.00%), 40.2 MB(64.77%)
 65. Problem 134: [Gas Station](https://leetcode.com/problems/gas-station/), [Solution](Leetcode/GasStation_134.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.8 MB(41.73%)
+66. Problem 136: [Single Number](https://leetcode.com/problems/single-number/), [Solution](Leetcode/SingleNumber_136.java)
+    * Runtime, Memory Usage: 4 ms(46.92%), 39.6 MB(94.79%) / (Opt) 0 ms(100.00%), 40.2 MB(69.80%)
 </details>
