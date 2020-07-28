@@ -161,4 +161,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.8 MB(41.73%)
 66. Problem 136: [Single Number](https://leetcode.com/problems/single-number/), [Solution](Leetcode/SingleNumber_136.java)
     * Runtime, Memory Usage: 4 ms(46.92%), 39.6 MB(94.79%) / (Opt) 0 ms(100.00%), 40.2 MB(69.80%)
+67. Problem 138: [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/), [Solution](Leetcode/CopyListWithRandomPointer_138.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(29.80%)
 </details>
