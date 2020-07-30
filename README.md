@@ -163,4 +163,6 @@
     * Runtime, Memory Usage: 4 ms(46.92%), 39.6 MB(94.79%) / (Opt) 0 ms(100.00%), 40.2 MB(69.80%)
 67. Problem 138: [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/), [Solution](Leetcode/CopyListWithRandomPointer_138.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(29.80%)
+68. Problem 139: [Word Break](https://leetcode.com/problems/word-break/), [Solution](Leetcode/WordBreak_139.java)
+    * Runtime, Memory Usage: 5 ms(83.60%), 39.9 MB(6.80%)
 </details>
