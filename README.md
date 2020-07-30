@@ -165,4 +165,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(29.80%)
 68. Problem 139: [Word Break](https://leetcode.com/problems/word-break/), [Solution](Leetcode/WordBreak_139.java)
     * Runtime, Memory Usage: 5 ms(83.60%), 39.9 MB(6.80%)
+68. Problem 140: [Word Break II](https://leetcode.com/problems/word-break-ii/), [Solution](Leetcode/WordBreakII_140.java)
+    * Runtime, Memory Usage: 4 ms(96.25%), 40.2 MB(14.76%)
 </details>
