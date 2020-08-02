@@ -147,7 +147,7 @@
     * Runtime, Memory Usage: 2 ms(98.59%), 39.2 MB(87.45%)
 </details>
 
-<details><summary>Problem 61 ~</summary>
+<details><summary>Problem 61 ~ 70</summary>
 
 61. Problem 127: [Word Ladder](https://leetcode.com/problems/word-ladder/), [Solution](Leetcode/WordLadder_127.java)
     * Runtime, Memory Usage: 32 ms(89.92%), 47.3 MB(25.12%)
@@ -169,4 +169,10 @@
     * Runtime, Memory Usage: 4 ms(96.25%), 40.2 MB(14.76%)
 70. Problem 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/), [Solution](Leetcode/LinkedListCycle_141.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.73%)
+</details>
+
+<details><summary>Problem 71 ~</summary>
+
+71. Problem 146: [LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution](Leetcode/LRUCache_146.java)
+    * Runtime, Memory Usage: 12 ms(96.99%), 47.2 MB(89.69%)
 </details>
