@@ -175,4 +175,6 @@
 
 71. Problem 146: [LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution](Leetcode/LRUCache_146.java)
     * Runtime, Memory Usage: 12 ms(96.99%), 47.2 MB(89.69%)
+72. Problem 148: [Sort List](https://leetcode.com/problems/sort-list/), [Solution](Leetcode/SortList_148.java)
+    * Runtime, Memory Usage: 3 ms(98.17%), 42.4 MB(13.28%)
 </details>
