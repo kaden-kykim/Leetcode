@@ -179,4 +179,6 @@
     * Runtime, Memory Usage: 3 ms(98.17%), 42.4 MB(13.28%)
 73. Problem 149: [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/), [Solution](Leetcode/MaxPointsOnALine_149.java)
     * Runtime, Memory Usage: 15 ms(84.41%), 39.6 MB(16.42%)
+74. Problem 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/), [Solution](Leetcode/EvaluateReversePolishNotation_150.java)
+    * Runtime, Memory Usage: 4 ms(96.13%), 39.4 MB(26.47%)
 </details>
