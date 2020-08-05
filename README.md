@@ -181,4 +181,6 @@
     * Runtime, Memory Usage: 15 ms(84.41%), 39.6 MB(16.42%)
 74. Problem 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/), [Solution](Leetcode/EvaluateReversePolishNotation_150.java)
     * Runtime, Memory Usage: 4 ms(96.13%), 39.4 MB(26.47%)
+75. Problem 152: [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/), [Solution](Leetcode/MaximumProductSubarray_152.java)
+    * Runtime, Memory Usage: 1 ms(95.88%), 39.8 MB(14.25%) / (Opt) 0 ms(100.00%), 39.6 MB(25.39%)
 </details>
