@@ -183,4 +183,6 @@
     * Runtime, Memory Usage: 4 ms(96.13%), 39.4 MB(26.47%)
 75. Problem 152: [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/), [Solution](Leetcode/MaximumProductSubarray_152.java)
     * Runtime, Memory Usage: 1 ms(95.88%), 39.8 MB(14.25%) / (Opt) 0 ms(100.00%), 39.6 MB(25.39%)
+76. Problem 155: [Min Stack](https://leetcode.com/problems/min-stack/), [Solution](Leetcode/MinStack_155.java)
+    * Runtime, Memory Usage: 4 ms(94.81%), 41.5 MB(12.52%)
 </details>
