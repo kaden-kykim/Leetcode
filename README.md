@@ -185,4 +185,6 @@
     * Runtime, Memory Usage: 1 ms(95.88%), 39.8 MB(14.25%) / (Opt) 0 ms(100.00%), 39.6 MB(25.39%)
 76. Problem 155: [Min Stack](https://leetcode.com/problems/min-stack/), [Solution](Leetcode/MinStack_155.java)
     * Runtime, Memory Usage: 4 ms(94.81%), 41.5 MB(12.52%)
+77. Problem 160: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/), [Solution](Leetcode/IntersectionOfTwoLinkedLists_160.java)
+    * Runtime, Memory Usage: 1 ms(99.25%), 42.3 MB(51.15%)
 </details>
