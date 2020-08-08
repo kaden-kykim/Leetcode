@@ -187,4 +187,6 @@
     * Runtime, Memory Usage: 4 ms(94.81%), 41.5 MB(12.52%)
 77. Problem 160: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/), [Solution](Leetcode/IntersectionOfTwoLinkedLists_160.java)
     * Runtime, Memory Usage: 1 ms(99.25%), 42.3 MB(51.15%)
+78. Problem 162: [Find Peak Element](https://leetcode.com/problems/find-peak-element/), [Solution](Leetcode/FindPeakElement_162.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(56.52%)
 </details>
