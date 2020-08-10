@@ -189,4 +189,6 @@
     * Runtime, Memory Usage: 1 ms(99.25%), 42.3 MB(51.15%)
 78. Problem 162: [Find Peak Element](https://leetcode.com/problems/find-peak-element/), [Solution](Leetcode/FindPeakElement_162.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(56.52%)
+79. Problem 166: [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/), [Solution](Leetcode/FractionToRecurringDecimal_166.java)
+    * Runtime, Memory Usage: 1 ms(99.77%), 36.7 MB(86.93%)
 </details>
