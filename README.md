@@ -171,7 +171,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.73%)
 </details>
 
-<details><summary>Problem 71 ~</summary>
+<details><summary>Problem 71 ~ 80</summary>
 
 71. Problem 146: [LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution](Leetcode/LRUCache_146.java)
     * Runtime, Memory Usage: 12 ms(96.99%), 47.2 MB(89.69%)
@@ -191,4 +191,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.3 MB(56.52%)
 79. Problem 166: [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/), [Solution](Leetcode/FractionToRecurringDecimal_166.java)
     * Runtime, Memory Usage: 1 ms(99.77%), 36.7 MB(86.93%)
+80. Problem 169: [Majority Element](https://leetcode.com/problems/majority-element/), [Solution](Leetcode/MajorityElement_169.java)
+    * Runtime, Memory Usage: 7 ms(49.64%), 44.3 MB(64.32%) / (Opt) 1 ms(99.92%), 42.8 MB(85.14%)
 </details>
