@@ -199,4 +199,6 @@
 
 81. Problem 171: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](Leetcode/ExcelSheetColumnNumber_171.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 38.4 MB(57.64%)
+82. Problem 172: [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution](Leetcode/FactorialTrailingZeroes_172.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 36.5 MB(58.57%)
 </details>
