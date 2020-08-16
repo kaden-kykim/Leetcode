@@ -203,4 +203,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 36.5 MB(58.57%)
 83. Problem 179: [Largest Number](https://leetcode.com/problems/largest-number/), [Solution](Leetcode/LargestNumber_179.java)
     * Runtime, Memory Usage: 4 ms(98.74%), 38.9 MB(93.34%)
+84. Problem 189: [Rotate Array](https://leetcode.com/problems/rotate-array/), [Solution](Leetcode/RotateArray_189.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.9 MB(85.22%)
 </details>
