@@ -205,4 +205,6 @@
     * Runtime, Memory Usage: 4 ms(98.74%), 38.9 MB(93.34%)
 84. Problem 189: [Rotate Array](https://leetcode.com/problems/rotate-array/), [Solution](Leetcode/RotateArray_189.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.9 MB(85.22%)
+85. Problem 190: [Reverse Bits](https://leetcode.com/problems/reverse-bits/), [Solution](Leetcode/ReverseBits_190.java)
+    * Runtime, Memory Usage: 1 ms(99.90%), 39.0 MB(89.18%)
 </details>
