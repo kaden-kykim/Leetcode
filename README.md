@@ -207,4 +207,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.9 MB(85.22%)
 85. Problem 190: [Reverse Bits](https://leetcode.com/problems/reverse-bits/), [Solution](Leetcode/ReverseBits_190.java)
     * Runtime, Memory Usage: 1 ms(99.90%), 39.0 MB(89.18%)
+86. Problem 191: [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/), [Solution](Leetcode/NumberOf1Bits_191.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 36.0 MB(98.05%)
 </details>
