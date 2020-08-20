@@ -211,4 +211,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 36.0 MB(98.05%)
 87. Problem 198: [House Robber](https://leetcode.com/problems/house-robber/), [Solution](Leetcode/HouseRobber_198.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.6 MB(89.72%)
+88. Problem 200: [Number of Islands](https://leetcode.com/problems/number-of-islands/), [Solution](Leetcode/NumberOfIslands_200.java)
+    * Runtime, Memory Usage: 1 ms(99.92%), 41.9 MB(82.34%)
 </details>
