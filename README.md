@@ -195,7 +195,7 @@
     * Runtime, Memory Usage: 7 ms(49.64%), 44.3 MB(64.32%) / (Opt) 1 ms(99.92%), 42.8 MB(85.14%)
 </details>
 
-<details><summary>Problem 81 ~</summary>
+<details><summary>Problem 81 ~ 90</summary>
 
 81. Problem 171: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](Leetcode/ExcelSheetColumnNumber_171.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 38.4 MB(57.64%)
@@ -215,4 +215,6 @@
     * Runtime, Memory Usage: 1 ms(99.92%), 41.9 MB(82.34%)
 89. Problem 202: [Happy Number](https://leetcode.com/problems/happy-number/), [Solution](Leetcode/HappyNumber_202.java)
     * Runtime, Memory Usage: 2 ms(44.96%), 36.4 MB(82.34%) / (Opt) 0 ms(100.00%), 36.0 MB(99.28%)
+90. Problem 204: [Count Prime](https://leetcode.com/problems/count-primes/), [Solution](Leetcode/CountPrime_204.java)
+    * Runtime, Memory Usage: 11 ms(96.05%), 37.7 MB(83.50%)
 </details>
