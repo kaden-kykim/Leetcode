@@ -223,4 +223,6 @@
 
 91. Problem 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/), [Solution](Leetcode/ReverseLinkedList_206.java)
     * Runtime, Memory Usage: 11 ms(96.05%), 37.7 MB(83.50%)
+92. Problem 207: [Course Schedule](https://leetcode.com/problems/course-schedule/), [Solution](Leetcode/CourseSchedule_207.java)
+    * Runtime, Memory Usage: 4 ms(84.27%), 40.7 MB(49.72%) / (Opt) 2 ms(99.73%), 40.6 MB(51.91%)
 </details>
