@@ -225,4 +225,6 @@
     * Runtime, Memory Usage: 11 ms(96.05%), 37.7 MB(83.50%)
 92. Problem 207: [Course Schedule](https://leetcode.com/problems/course-schedule/), [Solution](Leetcode/CourseSchedule_207.java)
     * Runtime, Memory Usage: 4 ms(84.27%), 40.7 MB(49.72%) / (Opt) 2 ms(99.73%), 40.6 MB(51.91%)
+93. Problem 208: [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/), [Solution](Leetcode/ImplementTrie_PrefixTree_208.java)
+    * Runtime, Memory Usage: 29 ms(99.10%), 50.2 MB(66.79%)
 </details>
