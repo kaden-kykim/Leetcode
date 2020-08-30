@@ -229,4 +229,6 @@
     * Runtime, Memory Usage: 29 ms(99.10%), 50.2 MB(66.79%)
 94. Problem 210: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/), [Solution](Leetcode/CourseScheduleII_210.java)
     * Runtime, Memory Usage: 4 ms(88.57%), 40.2 MB(94.88%)
+95. Problem 212: [Word Search II](https://leetcode.com/problems/word-search-ii/), [Solution](Leetcode/WordSearchII_212.java)
+    * Runtime, Memory Usage: 13 ms(79.52%), 47.9 MB(68.80%)
 </details>
