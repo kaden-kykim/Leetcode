@@ -231,4 +231,6 @@
     * Runtime, Memory Usage: 4 ms(88.57%), 40.2 MB(94.88%)
 95. Problem 212: [Word Search II](https://leetcode.com/problems/word-search-ii/), [Solution](Leetcode/WordSearchII_212.java)
     * Runtime, Memory Usage: 13 ms(79.52%), 47.9 MB(68.80%)
+96. Problem 215: [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/), [Solution](Leetcode/KthLargestElementInAnArray_215.java)
+    * Runtime, Memory Usage: 4 ms(70.79%), 42.1 MB(26.31%)
 </details>
