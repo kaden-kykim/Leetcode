@@ -233,4 +233,6 @@
     * Runtime, Memory Usage: 13 ms(79.52%), 47.9 MB(68.80%)
 96. Problem 215: [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/), [Solution](Leetcode/KthLargestElementInAnArray_215.java)
     * Runtime, Memory Usage: 4 ms(70.79%), 42.1 MB(26.31%)
+97. Problem 217: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/), [Solution](Leetcode/ContainsDuplicate_217.java)
+    * Runtime, Memory Usage: 3 ms(99.66%), 43.4 MB(92.01%)
 </details>
