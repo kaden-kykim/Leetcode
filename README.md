@@ -3,7 +3,7 @@
 ### Profile Page: [Kaden Kim - LeetCode](https://leetcode.com/kaden-kykim/)
 ### List of solved problems
 
-<details><summary>Problem 1 ~ 10</summary>
+<details><summary>Problem 1 ~ 50</summary>
 
 1. Problem 1: [Two Sum](https://leetcode.com/problems/two-sum/), [Solution](Leetcode/TwoSum_1.java)
    * Runtime, Memory Usage: 1 ms(99.93%), 39.7 MB(44.72%)
@@ -25,10 +25,6 @@
    * Runtime, Memory Usage: 3 ms(100.00%), 39.2 MB(97.00%)
 10. Problem 14: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/), [Solution](Leetcode/LongestCommonPrefix_14.java)
     * Runtime, Memory Usage: 1 ms(61.87%), 37.5 MB(68.81%)
-</details>
-
-<details><summary>Problem 11 ~ 20</summary>
-
 11. Problem 15: [3Sum](https://leetcode.com/problems/3sum/), [Solution](Leetcode/ThreeSum_15.java)
     * Runtime, Memory Usage: 531 ms(11.31%), 44.5 MB(29.28%)
 12. Problem 17: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/), [Solution](Leetcode/LetterCombinationsOfAPhoneNumber_17.java)
@@ -49,10 +45,6 @@
     * Runtime, Memory Usage: 3 ms(34.16%), 39.5 MB(22.21%)
 20. Problem 29: [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/), [Solution](Leetcode/DivideTwoIntegers_29.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 36.9 MB(42.13%)
-</details>
-    
-<details><summary>Problem 21 ~ 30</summary>
-
 21. Problem 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/), [Solution](Leetcode/SearchInRotatedSortedArray_33.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.1 MB(54.98%)
 22. Problem 34: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/), [Solution](Leetcode/FindFirstAndLastPositionOfElementInSortedArray_34.java)
@@ -73,10 +65,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.5 MB(56.12%)
 30. Problem 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/), [Solution](Leetcode/GroupAnagrams_49.java)
     * Runtime, Memory Usage: 5 ms(99.39%), 42.3 MB(80.00%)
-</details>
-
-<details><summary>Problem 31 ~ 40</summary>
-
 31. Problem 50: [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Solution](Leetcode/Pow_x_n_50.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 36.7 MB(56.61%)
 32. Problem 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/), [Solution](Leetcode/MaximumSubarray_53.java)
@@ -97,10 +85,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(92.24%)
 40. Problem 73: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/), [Solution](Leetcode/SetMatrixZeroes_73.java)
     * Runtime, Memory Usage: 1 ms(96.36%), 40.6 MB(93.14%)
-</details>
-
-<details><summary>Problem 41 ~ 50</summary>
-
 41. Problem 75: [Sort Colors](https://leetcode.com/problems/sort-colors/), [Solution](Leetcode/SortColors_75.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 37.8 MB(78.33%)
 42. Problem 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/), [Solution](Leetcode/MinimumWindowSubstring_76.java)
@@ -123,7 +107,7 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 39.7 MB(57.27%)
 </details>
 
-<details><summary>Problem 51 ~ 60</summary>
+<details><summary>Problem 51 ~ 100</summary>
 
 51. Problem 103: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/), [Solution](Leetcode/BinaryTreeZigzagLevelOrderTraversal_103.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 38.3 MB(84.03%)
@@ -145,10 +129,6 @@
     * Runtime, Memory Usage: 0 ms(100.00%), 41.2 MB(76.59%)
 60. Problem 125: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/), [Solution](Leetcode/ValidPalindrome_125.java)
     * Runtime, Memory Usage: 2 ms(98.59%), 39.2 MB(87.45%)
-</details>
-
-<details><summary>Problem 61 ~ 70</summary>
-
 61. Problem 127: [Word Ladder](https://leetcode.com/problems/word-ladder/), [Solution](Leetcode/WordLadder_127.java)
     * Runtime, Memory Usage: 32 ms(89.92%), 47.3 MB(25.12%)
 62. Problem 128: [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/), [Solution](Leetcode/LongestConsecutiveSequence_128.java)
@@ -169,10 +149,6 @@
     * Runtime, Memory Usage: 4 ms(96.25%), 40.2 MB(14.76%)
 70. Problem 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/), [Solution](Leetcode/LinkedListCycle_141.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(37.73%)
-</details>
-
-<details><summary>Problem 71 ~ 80</summary>
-
 71. Problem 146: [LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution](Leetcode/LRUCache_146.java)
     * Runtime, Memory Usage: 12 ms(96.99%), 47.2 MB(89.69%)
 72. Problem 148: [Sort List](https://leetcode.com/problems/sort-list/), [Solution](Leetcode/SortList_148.java)
@@ -193,10 +169,6 @@
     * Runtime, Memory Usage: 1 ms(99.77%), 36.7 MB(86.93%)
 80. Problem 169: [Majority Element](https://leetcode.com/problems/majority-element/), [Solution](Leetcode/MajorityElement_169.java)
     * Runtime, Memory Usage: 7 ms(49.64%), 44.3 MB(64.32%) / (Opt) 1 ms(99.92%), 42.8 MB(85.14%)
-</details>
-
-<details><summary>Problem 81 ~ 90</summary>
-
 81. Problem 171: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](Leetcode/ExcelSheetColumnNumber_171.java)
     * Runtime, Memory Usage: 1 ms(100.00%), 38.4 MB(57.64%)
 82. Problem 172: [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution](Leetcode/FactorialTrailingZeroes_172.java)
@@ -217,10 +189,6 @@
     * Runtime, Memory Usage: 2 ms(44.96%), 36.4 MB(82.34%) / (Opt) 0 ms(100.00%), 36.0 MB(99.28%)
 90. Problem 204: [Count Prime](https://leetcode.com/problems/count-primes/), [Solution](Leetcode/CountPrime_204.java)
     * Runtime, Memory Usage: 11 ms(96.05%), 37.7 MB(83.50%)
-</details>
-
-<details><summary>Problem 91 ~ </summary>
-
 91. Problem 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/), [Solution](Leetcode/ReverseLinkedList_206.java)
     * Runtime, Memory Usage: 11 ms(96.05%), 37.7 MB(83.50%)
 92. Problem 207: [Course Schedule](https://leetcode.com/problems/course-schedule/), [Solution](Leetcode/CourseSchedule_207.java)
@@ -239,4 +207,6 @@
     * Runtime, Memory Usage: 46 ms(46.69%), 42.7 MB(85.56%) / (Opt) 5 ms(99.41%), 42.6 MB(88.93%)
 99. Problem 227: [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/), [Solution](Leetcode/BasicCalculatorII_227.java)
     * Runtime, Memory Usage: 17 ms(43.90%), 39.3 MB(98.19%) / (Opt) 12 ms(59.89%), 47.2 MB(13.69%)
+100. Problem 230: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/), [Solution](Leetcode/KthSmallestElementInABST_230.java)
+    * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(66.33%)
 </details>
