@@ -215,4 +215,7 @@
 
 101. Problem 234: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/), [Solution](Leetcode/PalindromeLinkedList_234.java)
      * Runtime, Memory Usage: 1 ms(97.44%), 46.0 MB(17.20%)
+102. Problem 236: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/), [Solution](Leetcode/LowestCommonAncestorOfABinaryTree_236.java)
+     * Runtime, Memory Usage: 6 ms(55.97%), 43.3 MB(38.40%) / (Opt) 4 ms(100.00%), 41.7 MB(70.88%)
+
 </details>
