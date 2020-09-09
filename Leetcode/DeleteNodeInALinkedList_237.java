@@ -5,7 +5,7 @@ public class DeleteNodeInALinkedList_237 {
         node.next = node.next.next;
     }
 
-    public class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }
