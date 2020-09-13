@@ -223,4 +223,6 @@
      * Runtime, Memory Usage: 2 ms(46.95%), 52.4 MB(5.08%) / (Opt) 1 ms(100.00%), 47.7 MB(92.76%)
 105. Problem 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/), [Solution](Leetcode/SlidingWindowMaximum_239.java)
      * Runtime, Memory Usage: 20 ms(37.57%), 52.4 MB(79.36%) / (Opt) 2 ms(99.37%), 50.5 MB(96.38%)
+106. Problem 240: [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/), [Solution](Leetcode/SearchA2DMatrixII_240.java)
+     * Runtime, Memory Usage: 5 ms(72.26%), 44.9 MB(77.21%) / (Opt) 4 ms(100.00%), 44.7 MB(94.55%)
 </details>
