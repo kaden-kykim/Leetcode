@@ -227,4 +227,6 @@
      * Runtime, Memory Usage: 5 ms(72.26%), 44.9 MB(77.21%) / (Opt) 4 ms(100.00%), 44.7 MB(94.55%)
 107. Problem 242: [Valid Anagram](https://leetcode.com/problems/valid-anagram/), [Solution](Leetcode/ValidAnagram_242.java)
      * Runtime, Memory Usage: 1 ms(99.98%), 39.6 MB(76.39%)
+108. Problem 268: [Missing Number](https://leetcode.com/problems/missing-number/), [Solution](Leetcode/MissingNumber_268.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 40.0 MB(78.67%)
 </details>
