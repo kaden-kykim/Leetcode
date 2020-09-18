@@ -229,4 +229,6 @@
      * Runtime, Memory Usage: 1 ms(99.98%), 39.6 MB(76.39%)
 108. Problem 268: [Missing Number](https://leetcode.com/problems/missing-number/), [Solution](Leetcode/MissingNumber_268.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 40.0 MB(78.67%)
+109. Problem 279: [Perfect Squares](https://leetcode.com/problems/perfect-squares/), [Solution](Leetcode/PerfectSquares_279.java)
+     * Runtime, Memory Usage: 78 ms(33.33%), 39.0 MB(59.20%) / (Opt) 1 ms(99.94%), 36.5 MB(99.28%)
 </details>
