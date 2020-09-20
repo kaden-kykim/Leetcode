@@ -233,4 +233,6 @@
      * Runtime, Memory Usage: 78 ms(33.33%), 39.0 MB(59.20%) / (Opt) 1 ms(99.94%), 36.5 MB(99.28%)
 110. Problem 283: [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Solution](Leetcode/MoveZeroes_283.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 39.9 MB(53.67%)
+111. Problem 287: [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/), [Solution](Leetcode/FindTheDuplicateNumber_287.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(54.99%) / (Opt) 0 ms(100.00%), 39.1 MB(96.94%)
 </details>
