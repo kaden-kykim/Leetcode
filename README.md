@@ -235,4 +235,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 39.9 MB(53.67%)
 111. Problem 287: [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/), [Solution](Leetcode/FindTheDuplicateNumber_287.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(54.99%) / (Opt) 0 ms(100.00%), 39.1 MB(96.94%)
+112. Problem 289: [Game of Life](https://leetcode.com/problems/game-of-life/), [Solution](Leetcode/GameOfLife_289.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 37.7 MB(77.82%)
 </details>
