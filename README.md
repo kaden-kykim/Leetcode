@@ -237,4 +237,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 39.6 MB(54.99%) / (Opt) 0 ms(100.00%), 39.1 MB(96.94%)
 112. Problem 289: [Game of Life](https://leetcode.com/problems/game-of-life/), [Solution](Leetcode/GameOfLife_289.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 37.7 MB(77.82%)
+113. Problem 295: [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/), [Solution](Leetcode/FindMedianFromDataStream_295.java)
+     * Runtime, Memory Usage: 76 ms(31.41%), 50.6 MB(87.72%) / (Opt) 43 ms(95.46%), 51.0 MB(45.70%)
 </details>
