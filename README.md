@@ -239,4 +239,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 37.7 MB(77.82%)
 113. Problem 295: [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/), [Solution](Leetcode/FindMedianFromDataStream_295.java)
      * Runtime, Memory Usage: 76 ms(31.41%), 50.6 MB(87.72%) / (Opt) 43 ms(95.46%), 51.0 MB(45.70%)
+114. Problem 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/), [Solution](Leetcode/SerializeAndDeserializeBinaryTree_297.java)
+     * Runtime, Memory Usage: 11 ms(73.41%), 40.8 MB(94.70%)     
 </details>
