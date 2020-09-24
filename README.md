@@ -241,4 +241,6 @@
      * Runtime, Memory Usage: 76 ms(31.41%), 50.6 MB(87.72%) / (Opt) 43 ms(95.46%), 51.0 MB(45.70%)
 114. Problem 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/), [Solution](Leetcode/SerializeAndDeserializeBinaryTree_297.java)
      * Runtime, Memory Usage: 11 ms(73.41%), 40.8 MB(94.70%)     
+115. Problem 300: [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/), [Solution](Leetcode/LongestIncreasingSubsequence_300.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 37.0 MB(99.13%)
 </details>
