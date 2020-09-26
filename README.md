@@ -246,5 +246,5 @@
 116. Problem 315: [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), [Solution](Leetcode/CountOfSmallerNumbersAfterSelf_315.java)
      * Runtime, Memory Usage: 18 ms(34.26%), 40.6 MB(98.76%) / (Opt) 3 ms(99.72%), 41.4 MB(77.23%)
 117. Problem 322: [Coin Change](https://leetcode.com/problems/coin-change/), [Solution](Leetcode/CoinChange_322.java)
-     * Runtime, Memory Usage: 1 ms(100.00%), 36.8 MB(99.95%)
+     * Runtime, Memory Usage: 1 ms(100.00%), 36.2 MB(100.00%)
 </details>
