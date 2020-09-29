@@ -249,4 +249,6 @@
      * Runtime, Memory Usage: 1 ms(100.00%), 36.2 MB(100.00%)
 118. Problem 324: [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/), [Solution](Leetcode/WiggleSortII_324.java)
      * Runtime, Memory Usage: 2 ms(100.00%), 41.8 MB(95.78%)
+119. Problem 326: [Power of Three](https://leetcode.com/problems/power-of-three/), [Solution](Leetcode/PowerOfThree_326.java)
+     * Runtime, Memory Usage: 10 ms(99.98%), 38.6 MB(99.70%)
 </details>
