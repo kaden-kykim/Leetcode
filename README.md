@@ -251,4 +251,6 @@
      * Runtime, Memory Usage: 2 ms(100.00%), 41.8 MB(95.78%)
 119. Problem 326: [Power of Three](https://leetcode.com/problems/power-of-three/), [Solution](Leetcode/PowerOfThree_326.java)
      * Runtime, Memory Usage: 10 ms(99.98%), 38.6 MB(99.70%)
+120. Problem 328: [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/), [Solution](Leetcode/OddEvenLinkedList_328.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 38.5 MB(99.79%)
 </details>
