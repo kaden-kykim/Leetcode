@@ -255,4 +255,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 38.5 MB(99.79%)
 121. Problem 329: [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/), [Solution](Leetcode/LongestIncreasingPathInAMatrix_329.java)
      * Runtime, Memory Usage: 6 ms(98.64%), 39.1 MB(99.79%)
+122. Problem 334: [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/), [Solution](Leetcode/IncreasingTripletSubsequence_334.java)
+     * Runtime, Memory Usage: 1 ms(43.18%), 38.5 MB(100.00%) / (Opt) 0 ms(100.00%), 38.7 MB(99.81%)
 </details>
