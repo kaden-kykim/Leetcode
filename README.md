@@ -258,5 +258,7 @@
 122. Problem 334: [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/), [Solution](Leetcode/IncreasingTripletSubsequence_334.java)
      * Runtime, Memory Usage: 1 ms(43.18%), 38.5 MB(100.00%) / (Opt) 0 ms(100.00%), 38.7 MB(99.81%)
 123. Problem 341: [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/), [Solution](Leetcode/FlattenNestedListIterator_341.java)
-     * Runtime, Memory Usage: 2 ms(98.47%), 41.4 MB(94.50%)     
+     * Runtime, Memory Usage: 2 ms(98.47%), 41.4 MB(94.50%)
+124. Problem 344: [Reverse String](https://leetcode.com/problems/reverse-string/), [Solution](Leetcode/ReverseString_344.java)
+     * Runtime, Memory Usage: 1 ms(68.03%), 45.5 MB(98.23%)
 </details>
