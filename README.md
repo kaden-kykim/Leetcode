@@ -263,4 +263,6 @@
      * Runtime, Memory Usage: 1 ms(68.03%), 45.5 MB(98.23%)
 125. Problem 347: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/), [Solution](Leetcode/TopKFrequentElements_347.java)
      * Runtime, Memory Usage: 12 ms(37.47%), 41.3 MB(99.45%) / (Opt) 10 ms(71.21%), 41.8 MB(87.20%) / (Opt2) 3 ms(99.96%), 41.8 MB(86.47%)
+126. Problem 350: [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](Leetcode/IntersectionOfTwoArraysII_350.java)
+     * Runtime, Memory Usage: 2 ms(97.28%), 38.9 MB(98.50%)
 </details>
