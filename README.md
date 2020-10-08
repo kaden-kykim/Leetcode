@@ -267,4 +267,6 @@
      * Runtime, Memory Usage: 2 ms(97.28%), 38.9 MB(98.50%)
 127. Problem 371: [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/), [Solution](Leetcode/SumOfTwoIntegers_371.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 35.5 MB(98.51%)
+128. Problem 378: [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/), [Solution](Leetcode/KthSmallestElementInASortedMatrix_378.java)
+     * Runtime, Memory Usage: 9 ms(66.27%), 44.4 MB(74.83%) / (Opt) 0 ms(100.00%), 44.4 MB(74.14%)
 </details>
