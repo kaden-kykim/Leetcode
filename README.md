@@ -270,5 +270,7 @@
 128. Problem 378: [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/), [Solution](Leetcode/KthSmallestElementInASortedMatrix_378.java)
      * Runtime, Memory Usage: 9 ms(66.27%), 44.4 MB(74.83%) / (Opt) 0 ms(100.00%), 44.4 MB(74.14%)
 129. Problem 380: [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/), [Solution](Leetcode/InsertDeleteGetRandomO_1_380.java)
-     * Runtime, Memory Usage: 7 ms(100.00%), 43.9 MB(89.60%) 
+     * Runtime, Memory Usage: 7 ms(100.00%), 43.9 MB(89.60%)
+130. Problem 384: [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/), [Solution](Leetcode/ShuffleAnArray_384.java)
+     * Runtime, Memory Usage: 71 ms(98.41%), 47.5 MB(84.40%)
 </details>
