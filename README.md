@@ -275,4 +275,6 @@
      * Runtime, Memory Usage: 71 ms(98.41%), 47.5 MB(84.40%)
 131. Problem 387: [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/), [Solution](Leetcode/FirstUniqueCharacterInAString_387.java)
      * Runtime, Memory Usage: 15 ms(68.17%), 39.2 MB(99.06%) / (Opt) 3 ms(99.01%), 39.7 MB(85.92%)
+132. Problem 395: [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/), [Solution](Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters_395.java)
+     * Runtime, Memory Usage: 24 ms(23.45%), 38.5 MB(48.31%) / (Opt) 0 ms(100.00%), 36.8 MB(97.72%)
 </details>
