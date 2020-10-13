@@ -277,4 +277,6 @@
      * Runtime, Memory Usage: 15 ms(68.17%), 39.2 MB(99.06%) / (Opt) 3 ms(99.01%), 39.7 MB(85.92%)
 132. Problem 395: [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/), [Solution](Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters_395.java)
      * Runtime, Memory Usage: 24 ms(23.45%), 38.5 MB(48.31%) / (Opt) 0 ms(100.00%), 36.8 MB(97.72%)
+133. Problem 412: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/), [Solution](Leetcode/FizzBuzz_412.java)
+     * Runtime, Memory Usage: 1 ms(99.62%), 40.3 MB(89.27%)
 </details>
