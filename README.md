@@ -279,4 +279,6 @@
      * Runtime, Memory Usage: 24 ms(23.45%), 38.5 MB(48.31%) / (Opt) 0 ms(100.00%), 36.8 MB(97.72%)
 133. Problem 412: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/), [Solution](Leetcode/FizzBuzz_412.java)
      * Runtime, Memory Usage: 1 ms(99.62%), 40.3 MB(89.27%)
+134. Problem 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Solution](Leetcode/InvertBinaryTree_226.java)
+        * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(15.80%)
 </details>
