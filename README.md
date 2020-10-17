@@ -281,4 +281,6 @@
      * Runtime, Memory Usage: 1 ms(99.62%), 40.3 MB(89.27%)
 134. Problem 226: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Solution](Leetcode/InvertBinaryTree_226.java)
         * Runtime, Memory Usage: 0 ms(100.00%), 35.9 MB(15.80%)
+135. Problem 114: [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/), [Solution](Leetcode/FlattenBinaryTreeToLinkedList_114.java)
+     * Runtime, Memory Usage: 1 ms(34.63%), 38.3 MB(23.06%) / (Opt) 0 ms(100.00%), 38.1 MB(23.06%)    
 </details>
