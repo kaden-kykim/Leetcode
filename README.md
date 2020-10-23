@@ -287,4 +287,6 @@
      * Runtime, Memory Usage: 4 ms(92.21%), 39.2 MB(18.99%)
 137. Problem 448: [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/), [Solution](Leetcode/FindAllNumbersDisappearedInAnArray_448.java)
      * Runtime, Memory Usage: 3 ms(100.00%), 48.0 MB(8.51%)
+138. Problem 32: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/), [Solution](Leetcode/LongestValidParentheses_32.java)
+     * Runtime, Memory Usage: 1 ms(100.00%), 38.6 MB(10.29%)
 </details>
