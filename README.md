@@ -290,5 +290,7 @@
 138. Problem 32: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/), [Solution](Leetcode/LongestValidParentheses_32.java)
      * Runtime, Memory Usage: 1 ms(100.00%), 38.6 MB(10.29%)
 139. Problem 617: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/), [Solution](Leetcode/MergeTwoBinaryTrees_617.java)
-     * Runtime, Memory Usage: 0 ms(100.00%), 48.3 MB(13.10%)     
+     * Runtime, Memory Usage: 0 ms(100.00%), 48.3 MB(13.10%)
+140. Problem 39: [Combination Sum](https://leetcode.com/problems/combination-sum/), [Solution](Leetcode/CombinationSum_39.java)
+     * Runtime, Memory Usage: 2 ms(99.13%), 39.4 MB(6.53%)
 </details>
