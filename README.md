@@ -293,4 +293,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 48.3 MB(13.10%)
 140. Problem 39: [Combination Sum](https://leetcode.com/problems/combination-sum/), [Solution](Leetcode/CombinationSum_39.java)
      * Runtime, Memory Usage: 2 ms(99.13%), 39.4 MB(6.53%)
+141. Problem 45: [Jump Game II](https://leetcode.com/problems/jump-game-ii/), [Solution](Leetcode/JumpGameII_45.java)
+     * Runtime, Memory Usage: 1 ms(99.98%), 41.2 MB(11.21%)
 </details>
