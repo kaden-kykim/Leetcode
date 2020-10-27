@@ -295,4 +295,6 @@
      * Runtime, Memory Usage: 2 ms(99.13%), 39.4 MB(6.53%)
 141. Problem 45: [Jump Game II](https://leetcode.com/problems/jump-game-ii/), [Solution](Leetcode/JumpGameII_45.java)
      * Runtime, Memory Usage: 1 ms(99.98%), 41.2 MB(11.21%)
+142. Problem 64: [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/), [Solution](Leetcode/MinimumPathSum_64.java)
+     * Runtime, Memory Usage: 1 ms(98.67%), 42.0 MB(6.78%)
 </details>
