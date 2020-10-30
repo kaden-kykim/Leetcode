@@ -301,4 +301,6 @@
      * Runtime, Memory Usage: 0 ms(100.00%), 38.9 MB(13.18%)
 144. Problem 85: [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/), [Solution](Leetcode/MaximalRectangle_85.java)
      * Runtime, Memory Usage: 3 ms(91.09%), 41.6 MB(7.46%)
+145. Problem 96: [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/), [Solution](Leetcode/UniqueBinarySearchTrees_96.java)
+     * Runtime, Memory Usage: 0 ms(100.00%), 35.7 MB(11.18%)
 </details>
