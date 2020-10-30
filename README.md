@@ -299,4 +299,6 @@
      * Runtime, Memory Usage: 1 ms(98.67%), 42.0 MB(6.78%)
 143. Problem 142: [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/), [Solution](Leetcode/LinkedListCycleII_142.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 38.9 MB(13.18%)
+144. Problem 85: [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/), [Solution](Leetcode/MaximalRectangle_85.java)
+     * Runtime, Memory Usage: 3 ms(91.09%), 41.6 MB(7.46%)
 </details>
