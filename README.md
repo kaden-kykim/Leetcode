@@ -26,7 +26,7 @@
 10. Problem 14: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/), [Solution](Leetcode/LongestCommonPrefix_14.java)
     * Runtime, Memory Usage: 1 ms(61.87%), 37.5 MB(68.81%)
 11. Problem 15: [3Sum](https://leetcode.com/problems/3sum/), [Solution](Leetcode/ThreeSum_15.java)
-    * Runtime, Memory Usage: 531 ms(11.31%), 44.5 MB(29.28%)
+    * Runtime, Memory Usage: 531 ms(11.31%), 44.5 MB(29.28%) / (Opt) 15 ms(99.54%), 43.2 MB(5.55%)
 12. Problem 17: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/), [Solution](Leetcode/LetterCombinationsOfAPhoneNumber_17.java)
     * Runtime, Memory Usage: 0 ms(100.00%), 38 MB(90.91%)
 13. Problem 19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/), [Solution](Leetcode/RemoveNthNodeFromEndOfList_19.java)
