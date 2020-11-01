@@ -303,4 +303,6 @@
      * Runtime, Memory Usage: 3 ms(91.09%), 41.6 MB(7.46%)
 145. Problem 96: [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/), [Solution](Leetcode/UniqueBinarySearchTrees_96.java)
      * Runtime, Memory Usage: 0 ms(100.00%), 35.7 MB(11.18%)
+146. Problem 4: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/), [Solution](Leetcode/MedianOfTwoSortedArrays_4.java)
+     * Runtime, Memory Usage: 2 ms(99.74%), 40.4 MB(11.32%)
 </details>

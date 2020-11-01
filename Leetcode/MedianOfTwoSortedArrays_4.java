@@ -1,23 +1,25 @@
 public class MedianOfTwoSortedArrays_4 {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        return 0.0;
+        int m = nums1.length, n = nums2.length;
+        boolean isOdd = (m + n) % 2 == 1;
+        if (n < m) {
+            int[] temp = nums1; nums1 = nums2; nums2 = temp;
+            m = nums1.length; n = nums2.length;
+        }
+        int left = 0, right = m, halfLen = (m + n + 1) / 2;
+        while (left <= right) {
+            int i = (left + right) / 2, j = halfLen - i;
+            if (i < right && nums1[i] < nums2[j - 1]) left = i + 1;
+            else if (left < i && nums2[j] < nums1[i - 1]) right = i - 1;
+            else {
+                int maxLeft = i == 0 ? nums2[j - 1] : (j == 0 ? nums1[i - 1] : Math.max(nums1[i - 1], nums2[j - 1]));
+                if (isOdd) return maxLeft;
+                int minRight = i == m ? nums2[j] : (j == n ? nums1[i] : Math.min(nums1[i], nums2[j]));
+                return (maxLeft + minRight) / 2.0;
+            }
+        }
+        return 0;
     }
 
-//    public static void main(String[] args) {
-//        // 2
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{1, 3}, new int[]{2}));
-//        // 2.5
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{1, 2}, new int[]{3, 4}));
-//        // -1
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{3}, new int[]{-2, -1}));
-//        // 2
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{1, 2, 2}, new int[]{1, 2, 3}));
-//        // 1.5
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{1, 2}, new int[]{1, 2}));
-//        // 100000.5
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{100000}, new int[]{100001}));
-//        // 2.5
-//        System.out.println(new MedianOfTwoSortedArrays_4().findMedianSortedArrays(new int[]{1}, new int[]{2, 3, 4}));
-//    }
 }
