@@ -307,4 +307,6 @@
      * Runtime, Memory Usage: 2 ms(99.74%), 40.4 MB(11.32%)
 147. Problem 454: [4Sum II](https://leetcode.com/problems/maximal-square/), [Solution](Leetcode/FourSumII_454.java)
      * Runtime, Memory Usage: 51 ms(99.78%), 60.3 MB(6.55%)
+148. Problem 221: [Maximal Square](https://leetcode.com/problems/maximal-square/), [Solution](Leetcode/MaximalSquare_221.java)
+     * Runtime, Memory Usage: 3 ms(98.45%), 42.1 MB(12.66%)
 </details>
