@@ -309,4 +309,6 @@
      * Runtime, Memory Usage: 51 ms(99.78%), 60.3 MB(6.55%)
 148. Problem 221: [Maximal Square](https://leetcode.com/problems/maximal-square/), [Solution](Leetcode/MaximalSquare_221.java)
      * Runtime, Memory Usage: 3 ms(98.45%), 42.1 MB(12.66%)
+149. Problem 338: [Counting Bits](https://leetcode.com/problems/counting-bits/), [Solution](Leetcode/CountingBits_338.java)
+     * Runtime, Memory Usage: 1 ms(99.94%), 43.7 MB(7.33%) 
 </details>
